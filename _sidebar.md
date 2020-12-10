@@ -54,6 +54,9 @@
         	- [Data Quality](application-parts/scheduler-service/jobs/data-quality.md)
         	- [Message Handling](application-parts/scheduler-service/jobs/message-mailing.md)
         	- [Stored Query Execution](application-parts/scheduler-service/jobs/stored-query-execution.md)
+    - [Similarity Service](application-parts/similarity-service.md)
+        - [Setup](application-parts/similarity-service/setup.md)
+        - [Architecture](application-parts/similarity-service/architecture.md)
     - [NGINX Service](application-parts/nginx-server.md)
         - [High Availability](application-parts/nginx-server/high-availability.md)
 
